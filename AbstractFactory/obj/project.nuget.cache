@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3Gk+0HKovbWM72rtsRRf9MJP7kpBKMdNIsFEC6MQaDjE6E07pYU36tvw2tLeUFru9khqGVvEY1/eoJ0ulpZn5A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eyyub\\source\\repos\\DesignPatterns\\AbstractFactory\\AbstractFactory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eyyub\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

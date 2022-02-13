@@ -1,0 +1,7 @@
+C:\Users\Eyyub\source\repos\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe.config
+C:\Users\Eyyub\source\repos\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.exe
+C:\Users\Eyyub\source\repos\DesignPatterns\DesignPatterns\bin\Debug\DesignPatterns.pdb
+C:\Users\Eyyub\source\repos\DesignPatterns\DesignPatterns\obj\Debug\FactoryDesignPattern.csproj.AssemblyReference.cache
+C:\Users\Eyyub\source\repos\DesignPatterns\DesignPatterns\obj\Debug\FactoryDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\Eyyub\source\repos\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.exe
+C:\Users\Eyyub\source\repos\DesignPatterns\DesignPatterns\obj\Debug\DesignPatterns.pdb
